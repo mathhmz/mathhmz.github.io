@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matheus Menezes</title>
+    <description>Cientista de dados e desenvolvedor, buscando transformar a cidade de São Paulo através de políticas públicas.</description>
+    <link>https://mathhmz.github.io/</link>
+    <atom:link href="https://mathhmz.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 08 Aug 2023 14:30:19 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2023 14:30:19 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>E-Commerce Admin Panel</title>
+        <description>
+</description>
+        <pubDate>Fri, 03 Mar 2023 15:56:00 +0000</pubDate>
+        <link>https://mathhmz.github.io/development/2023/03/03/commerce-admin.html</link>
+        <guid isPermaLink="true">https://mathhmz.github.io/development/2023/03/03/commerce-admin.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>ReactJS</category>
+        
+        <category>API</category>
+        
+        <category>TailWind</category>
+        
+        <category>NextJS</category>
+        
+        <category>HTML</category>
+        
+        <category>NextAuthJS</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>PomoFocus</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 15:56:00 +0000</pubDate>
+        <link>https://mathhmz.github.io/development/2016/02/20/pomofocus.html</link>
+        <guid isPermaLink="true">https://mathhmz.github.io/development/2016/02/20/pomofocus.html</guid>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>JavaScript</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Github Favorites</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 14:15:00 +0000</pubDate>
+        <link>https://mathhmz.github.io/development/2016/02/20/github-favorites.html</link>
+        <guid isPermaLink="true">https://mathhmz.github.io/development/2016/02/20/github-favorites.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>CSS</category>
+        
+        <category>Sass</category>
+        
+        <category>HTML</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
